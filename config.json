@@ -1,0 +1,19 @@
+{
+  "start": "0111",
+  "0111": {
+    "title": "新年logo Panli首页",
+    "keywords": "",
+    "description": "",
+    "version": "0.1.3",
+    "author": "Julian",
+    "url": "http://www.panli.com/",
+    "load": {
+      "css": ["./0111/src/scss/main.scss"],
+      "js": ["./0111/src/js/*.js"]
+    },
+    "build": {
+      "css": "main.min.css",
+      "js": "head_2016.js"
+    }
+  }
+}
